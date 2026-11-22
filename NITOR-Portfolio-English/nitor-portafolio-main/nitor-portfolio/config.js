@@ -117,6 +117,7 @@ window.NITOR_CONFIG = {
     { id: "dpetTJ5E6lo", title: "MrBeast-Style YouTube?", description: "mr beast.", category: "instagram" },
     { id: "5xlGV3DErpM", title: "Day in the life of a marketing agency", description: "marketing agency.", category: "instagram" },
     { id: "605FHFFwFns", title: "$10k per month with AirBnB Marketing", description: "marketing agency.", category: "instagram" },
+    { id: "ds4PptsC3NU", title: "How to Advertise on Instagram", description: "Instagram ads.", category: "instagram" },
     { id: "_B6YFHeOcVE", title: "His Plan Backfired", description: "Narrated story with a twist ending, pacing, and captions.", category: "historias" },
     { id: "RdzUaIP9hh4", title: "Eugenio Derbez & MrBeast", description: "Storytelling about a viral anecdote, with suspense and a punchline.", category: "historias" },
     { id: "5oL_ahCX1ug", title: "Random Ads for Famous Brands", description: "Humorous ad with quick cuts and comedic punchlines.", category: "ads" },
