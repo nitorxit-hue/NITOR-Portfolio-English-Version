@@ -128,6 +128,7 @@ window.NITOR_CONFIG = {
     { id: "wWrxDPXKI6o", title: "3 Tips for Ranked Battle Royale", description: "Educational gaming Short with on-screen text and dynamic cuts.", category: "gaming" },
     { id: "dSUN8AgrRso", title: "5 AMAZING GTA 6 DETAILS", description: "Gaming tips Short with on-screen text and dynamic cuts.", category: "gaming" },
     { id: "FY3fyqsBKuw", title: "Car Audio", description: "English-subtitled Short.", category: "ingles" },
-     { id: "uA36txFzIjI", title: "Improve Your Smile", description: "attract customers", category: "ingles" },
+    { id: "uA36txFzIjI", title: "Improve Your Smile", description: "Dental clinic promo Short designed to attract new patients.", category: "ingles" },
+    { id: "xJLP5hId_V8", title: "Smile Transformation", description: "Dental clinic Short with dynamic rhythm and clean cuts.", category: "ingles" },
   ]
 };
