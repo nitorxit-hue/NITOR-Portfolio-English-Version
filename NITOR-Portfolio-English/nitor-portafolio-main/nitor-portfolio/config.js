@@ -21,7 +21,7 @@ window.NITOR_CONFIG = {
      Enter the video ID to feature in the hero section.
      If blank, the first video marked featured: true is used,
      or the first video in the list if none is featured. */
-  featuredId: "JwTngWAtWIE",
+  featuredId: "FY3fyqsBKuw",
 
   /* ---------- CATEGORIES / EDITING STYLES ----------
      key        → identificador que usan los videos en "category".
