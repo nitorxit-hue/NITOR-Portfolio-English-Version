@@ -120,7 +120,6 @@ window.NITOR_CONFIG = {
     { id: "6SOfE7Ify1Q", title: "Smart TV · Daka Stores", description: "Product video with animated text and a sales-focused approach.", category: "ads" },
     { id: "Cyahmutl3uI", title: "ORO Food&Wine Hamburger reel", description: "Making the Best Hamburger", category: "comida" },
     { id: "SR4_mQPk0ss", title: "Restaurants Ad Video", description: "video of a restaurant", category: "comida" },
-    { id: "SR4_mQPk0ss", title: "Restaurants Ad Video", description: "video of a restaurant", category: "comida" },
     { id: "jCp9GMs1u3E", title: "Make Your Own Hot Dog", description: "Food Reel showcasing a unique spot with appetizing visuals and pacing.", category: "comida" },
     { id: "p6fhqGRqLAU", title: "The Best Hot Dog in South America", description: "Food video featuring product shots and reactions.", category: "comida" },
     { id: "MKBw7vWapqE", title: "3 Places to Get Hot Dogs in Caracas", description: "Food tour with dynamic captions and recommendations.", category: "comida" },
